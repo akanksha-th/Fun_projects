@@ -1,6 +1,4 @@
-Here’s a simplified and concise **README.md** file with easy-to-understand language:
-
----
+web-app: https://imagecaptioningproject.streamlit.app/
 
 # Image Captioning System
 A simple AI-powered app that generates captions for images.
