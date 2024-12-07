@@ -1,17 +1,7 @@
-Here’s a simplified and concise **README.md** file with easy-to-understand language:
-
----
+web-app: https://imagecaptioningproject.streamlit.app/
 
 # Image Captioning System
 A simple AI-powered app that generates captions for images.
-
-image_captioning/
-├── main.py                # Streamlit app for user interaction
-├── model.py               # Model loading and caption generation logic
-├── Dockerfile                 # Dockerfile for containerizing the Streamlit app
-├── requirements.txt           # Python dependencies for the project
-├── README.md                  # Project documentation and usage instructions
-
 
 ## Features
 - Upload an image to get an AI-generated caption.
