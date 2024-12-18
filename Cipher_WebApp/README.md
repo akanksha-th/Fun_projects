@@ -3,7 +3,7 @@
 - Text-to-cipher function tested. ✅
 - OCR functionality verified. ❌
 - Streamlit app fully functional. ✅
-- Project tested for edge cases.
-- Documentation written.
-- Project uploaded to GitHub.
-- Demo link (if deployed) created.
+- Project tested for edge cases. ❌
+- Documentation written. ❌
+- Project uploaded to GitHub. ✅
+- Demo link created. ✅ https://cipher-violet-evergarden-anime.streamlit.app/
