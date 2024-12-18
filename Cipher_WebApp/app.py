@@ -25,7 +25,7 @@ def set_background(image_file):
     )
 
 # Set your background
-set_background("violet-evergarden-violets-letter-to-major-gilbert.jpg")
+set_background("Cipher_WebApp/violet-evergarden-violets-letter-to-major-gilbert.jpg")
 
 
 st.title("Violet Evergarden Cipher Web App")
