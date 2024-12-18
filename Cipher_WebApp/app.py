@@ -54,7 +54,7 @@ def load_alphabet_images(folder_path):
             print(f"Warning: {letter}.png not found!")
     return alphabet_images
 
-alphabet_images = load_alphabet_images("violet_alphabet/")
+alphabet_images = load_alphabet_images("Cipher_WebApp/violet_alphabet/")
 
 
 def text_to_cipher_image(input_text, alphabet_images, output_path="output.png"):
