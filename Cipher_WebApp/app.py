@@ -29,7 +29,7 @@ set_background("Cipher_WebApp/violet-evergarden-violets-letter-to-major-gilbert.
 
 
 st.title("Violet Evergarden Cipher Web App")
-st.write("Convert your text or images into the Violet Evergarden alphabet.")
+st.write("Convert your text into the alphabet used in the Violet Evergarden anime.")
 
 # Load alphabet images
 def load_alphabet_images(folder_path):
