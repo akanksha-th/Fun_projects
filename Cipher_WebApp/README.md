@@ -1,0 +1,9 @@
+- Alphabet PNG files created and cleaned. ✅
+- Environment setup complete. ✅
+- Text-to-cipher function tested. ✅
+- OCR functionality verified. ❌
+- Streamlit app fully functional. ✅
+- Project tested for edge cases. ❌
+- Documentation written. ❌
+- Project uploaded to GitHub. ✅
+- Demo link created. ✅ https://cipher-violet-evergarden-anime.streamlit.app/
